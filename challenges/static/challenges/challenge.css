@@ -1,0 +1,22 @@
+h1,
+h2 {
+    text-align: center;
+    color: rgb(35, 31, 31);
+}
+
+h1 {
+    font-size: 1.5rem;
+    margin: 2rem 0 1rem 0;
+    font-weight: normal;
+    color: rgb(204, 92, 154);
+}
+
+h2 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+p {
+    text-align: center;
+    color: rgb(32, 30, 30);
+}
